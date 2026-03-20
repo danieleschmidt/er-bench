@@ -1,0 +1,51 @@
+id,title,authors,venue,year,source
+dblp-001,Efficient Query Processing in Geographic Database Systems,Hans-Peter Kriegel; Thomas Brinkhoff; Ralf Schneider,SIGMOD,1992,dblp
+dblp-002,The R*-tree: An Efficient and Robust Access Method for Points and Rectangles,Norbert Beckmann; Hans-Peter Kriegel; Ralf Schneider; Bernhard Seeger,SIGMOD,1990,dblp
+dblp-003,Similarity Search in High Dimensions via Hashing,Aristides Gionis; Piotr Indyk; Rajeev Motwani,VLDB,1999,dblp
+dblp-004,Mining Association Rules between Sets of Items in Large Databases,Rakesh Agrawal; Tomasz Imielinski; Arun Swami,SIGMOD,1993,dblp
+dblp-005,Fast Algorithms for Mining Association Rules,Rakesh Agrawal; Ramakrishnan Srikant,VLDB,1994,dblp
+dblp-006,Schema Matching and Mapping,Erhard Rahm; Philip Bernstein,IEEE Data Engineering Bulletin,2001,dblp
+dblp-007,Duplicate Record Detection: A Survey,Ahmed Elmagarmid; Panagiotis Ipeirotis; Vassilios Verykios,IEEE TKDE,2007,dblp
+dblp-008,Entity Resolution in the Web of Data,Axel-Cyrille Ngonga Ngomo; Sören Auer,ESWC,2011,dblp
+dblp-009,SERAPH: An Authorization Model for Semantic Web Services,Elisa Bertino; Bhavani Thuraisingham,WWW,2005,dblp
+dblp-010,Crowdsourcing Ground Truth for Medical Relation Extraction,Shashank Gupta; Piyush Bansal; Srinivasan Iyer,ACL,2014,dblp
+dblp-011,Learning Entity and Relation Embeddings for Knowledge Graph Completion,Yankai Lin; Zhiyuan Liu; Maosong Sun; Yang Liu; Xuan Zhu,AAAI,2015,dblp
+dblp-012,Deep Learning for Entity Matching: A Design Space Exploration,Sidharth Mudgal; Han Li; Theodoros Rekatsinas; AnHai Doan,SIGMOD,2018,dblp
+dblp-013,Magellan: Toward Building Entity Matching Management Systems,AnHai Doan; Pradap Konda; Paul Suganthan; Adel Ardalan,PVLDB,2016,dblp
+dblp-014,Blocking and Filtering Techniques for Entity Resolution,Peter Christen; Dinusha Vatsalan,ACM Computing Surveys,2013,dblp
+dblp-015,Record Linkage Techniques — 1985,Ivan Fellegi; Alan Sunter,JASA,1985,dblp
+dblp-016,A String Metric for Assessing Token Similarity with Application to Information Extraction,William Cohen; Pradeep Ravikumar; Stephen Fienberg,IJCAI,2003,dblp
+dblp-017,Distributed Representations of Entities for Open Information Extraction,Luke Vilnis; Andrew McCallum,ICLR,2015,dblp
+dblp-018,Jointly Embedding Knowledge Graphs and Logical Rules,Shu Guo; Quan Wang; Lihong Wang; Bin Wang; Li Guo,EMNLP,2016,dblp
+dblp-019,DITTO: A Simple but Tough-to-Beat Baseline for Non-Autoregressive Machine Translation,Zhirui Zhang; Shujie Liu; Mu Li; Ming Zhou,EMNLP,2020,dblp
+dblp-020,ZeroER: Zero-Shot Entity Resolution without Labeled Data,Renzhi Wu; Sanya Chaba; Saurabh Sawlani; Xu Chu; Saravanan Thirumuruganathan,SIGMOD,2020,dblp
+dblp-021,Ontology Matching: State of the Art and Future Challenges,Pavel Shvaiko; Jérôme Euzenat,IEEE TKDE,2013,dblp
+dblp-022,Knowledge Graph Embedding by Translating on Hyperplanes,Zhen Wang; Jianwen Zhang; Jianlin Feng; Zheng Chen,AAAI,2014,dblp
+dblp-023,BERT for Entity Matching,Yuliang Li; Jinfeng Li; Yoshihiko Suhara; AnHai Doan; Wang-Chiew Tan,PVLDB,2020,dblp
+dblp-024,Data Integration: The Relational Logic Approach,Maurizio Lenzerini,PODS,2002,dblp
+dblp-025,Wikidata: A Free Collaborative Knowledgebase,Denny Vrandečić; Markus Krötzsch,CACM,2014,dblp
+acm-001,Efficient Query Processing in Geographic Database Systems,H.-P. Kriegel; T. Brinkhoff; R. Schneider,ACM SIGMOD Record,1992,acm
+acm-002,The R*-Tree: An Efficient Access Method for Points and Rectangles,N. Beckmann; H.-P. Kriegel; R. Schneider; B. Seeger,ACM SIGMOD,1990,acm
+acm-003,Similarity Search in High Dimensions via Hashing,A. Gionis; P. Indyk; R. Motwani,Proc. VLDB,1999,acm
+acm-004,Mining Association Rules Between Sets of Items in Large Databases,R. Agrawal; T. Imielinski; A. Swami,Proc. ACM SIGMOD,1993,acm
+acm-005,Fast Algorithms for Mining Association Rules in Large Databases,R. Agrawal; R. Srikant,Proc. VLDB Conference,1994,acm
+acm-006,Schema Mapping and Matching,E. Rahm; P.A. Bernstein,IEEE Data Eng. Bulletin,2001,acm
+acm-007,Duplicate Detection: A Survey of Methods,A.K. Elmagarmid; P.G. Ipeirotis; V.S. Verykios,IEEE Trans. Knowledge Data Eng.,2007,acm
+acm-008,Entity Resolution over the Web of Data,A.C. Ngonga Ngomo; S. Auer,Extended Semantic Web Conference,2011,acm
+acm-009,Security Model for Semantic Web Services,E. Bertino; B. Thuraisingham,WWW Conference Proceedings,2005,acm
+acm-010,Crowdsourcing Ground Truth for Medical Relation Extraction,S. Gupta; P. Bansal; S. Iyer,Proc. ACL,2014,acm
+acm-011,Learning Entity and Relation Embeddings for KG Completion,Y. Lin; Z. Liu; M. Sun; Y. Liu; X. Zhu,Proc. AAAI,2015,acm
+acm-012,Deep Learning for Entity Matching,S. Mudgal; H. Li; T. Rekatsinas; A. Doan,Proc. SIGMOD,2018,acm
+acm-013,Magellan: Building Entity Matching Systems,A. Doan; P. Konda; P. Suganthan; A. Ardalan,PVLDB,2016,acm
+acm-014,Blocking Techniques for Entity Resolution,P. Christen; D. Vatsalan,ACM Comput. Surv.,2013,acm
+acm-015,Record Linkage — Classic Probabilistic Approach,I.P. Fellegi; A.B. Sunter,J. Am. Stat. Assoc.,1985,acm
+acm-016,Token Similarity Metrics for Information Extraction,W.W. Cohen; P. Ravikumar; S.E. Fienberg,IJCAI Workshop,2003,acm
+acm-017,Distributed Representations for Open Information Extraction,L. Vilnis; A. McCallum,ICLR Conference,2015,acm
+acm-018,Knowledge Graph Embedding with Logical Rules,S. Guo; Q. Wang; L. Wang; B. Wang; L. Guo,Proc. EMNLP,2016,acm
+acm-019,DITTO: Tough-to-Beat Baseline for Non-Autoregressive MT,Z. Zhang; S. Liu; M. Li; M. Zhou,Empirical Methods NLP,2020,acm
+acm-020,ZeroER: Entity Resolution without Labels,R. Wu; S. Chaba; S. Sawlani; X. Chu; S. Thirumuruganathan,ACM SIGMOD,2020,acm
+acm-021,Ontology Matching: State of the Art,P. Shvaiko; J. Euzenat,IEEE Trans. Knowl. Data Eng.,2013,acm
+acm-022,TransH: Knowledge Graph Embedding on Hyperplanes,Z. Wang; J. Zhang; J. Feng; Z. Chen,Proc. AAAI,2014,acm
+acm-023,BERT-EM: Entity Matching with BERT,Y. Li; J. Li; Y. Suhara; A. Doan; W.-C. Tan,Proc. VLDB,2020,acm
+acm-024,Data Integration via Relational Logic,M. Lenzerini,Proc. PODS,2002,acm
+acm-025,Wikidata: Free Collaborative Knowledge Base,D. Vrandečić; M. Krötzsch,Commun. ACM,2014,acm
