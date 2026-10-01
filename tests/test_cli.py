@@ -19,7 +19,7 @@ class TestCLI:
             cmd,
             capture_output=True,
             text=True,
-            cwd="/tmp/er-bench",
+            cwd=os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
         )
 
     def test_cli_runs_febrl_exact(self):
